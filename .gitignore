@@ -1,0 +1,8 @@
+pyproject.toml
+setup.cfg
+dist/
+src/storagy.egg-info/
+.DS_Store
+.python-version
+src/terminy/__pycache__/
+tests/
