@@ -1,5 +1,4 @@
 pyproject.toml
-setup.cfg
 dist/
 src/terminy.egg-info/
 .DS_Store
